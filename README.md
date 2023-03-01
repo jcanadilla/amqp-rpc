@@ -1,7 +1,7 @@
 # AMQP Communication with RabbitMQ
 This repository contains the implementation of a server and a client that communicate via AMQP using RabbitMQ, written in TypeScript.
 
-## Requirements
+## Requirements
 Node.js
 RabbitMQ server running locally or remote access to a RabbitMQ server
 AMQP client library for Node.js (amqplib)
